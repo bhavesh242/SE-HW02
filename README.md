@@ -49,7 +49,7 @@ Further Reading : [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_L
         language = "dart"
         run = "dart code/dart/gameoflife.dart"
         ````
-3. Click on Run on the top.
+3. Click on Run on the top of the page.
 
 ## Team Members : 
 
