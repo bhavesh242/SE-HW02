@@ -37,7 +37,7 @@ Further Reading : [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_L
     * Go
         ```
         language = "go"
-        run = "run = "go run code/go/gameoflife.go""
+        run = "go run code/go/gameoflife.go""
         ```
     * Scala
         ```
