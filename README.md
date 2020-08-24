@@ -27,9 +27,9 @@ Further Reading : [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_L
 
 ## Programming Languages used :
 
-1. Go
-2. Scala
-3. Dart
+1. [GO](https://golang.org/)
+2. [Scala](https://www.scala-lang.org/)
+3. [Dart](https://dart.dev/)
 
 ## Instructions to run the code :
 1. Click on [![Run on Repl.it](https://repl.it/badge/github/bhavesh242/SE-HW02)](https://repl.it/github/bhavesh242/SE-HW02) badge 
