@@ -27,7 +27,7 @@ Further Reading : [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_L
 
 ## Programming Languages used :
 
-1. [GO](https://golang.org/)
+1. [Go](https://golang.org/)
 2. [Scala](https://www.scala-lang.org/)
 3. [Dart](https://dart.dev/)
 
