@@ -84,9 +84,9 @@ func live(a []int, rows int, cols int) []int{
     c+=1
   }
 
-  ans:=make([][]int,rows)
+  ans=make([][]int,cols)
   for i:=range ans{
-      ans[i]=make([]int,cols)
+      ans[i]=make([]int,rows)
   }
 
   for i:=0;i<rows;i++{
@@ -114,7 +114,7 @@ func live(a []int, rows int, cols int) []int{
   c=0
   for i:=0;i<rows;i++{
     for j:=0;j<cols;j++{
-      next[c]=ans[i][j]
+      next[c]+=ans[i][j]
       c+=1
     }
   }
@@ -124,7 +124,7 @@ func live(a []int, rows int, cols int) []int{
 func print_board(board [][]int, rows int, cols int){
   for i:=0;i<rows;i++{
     for j:=0;j<cols;j++{
-      if (board[i][j]==1){
+      if (board[i][j]!=1){
         print("o")
       }else{
         print(" ")
