@@ -1,0 +1,13 @@
+matrix:
+  include:
+    - language: dart
+      
+    - language : go
+      go:
+        - 1.x
+        - master
+  
+    - language: scala
+      scala:
+          - 2.9.3
+          - 2.11.11
