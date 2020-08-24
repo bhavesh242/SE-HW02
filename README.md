@@ -50,7 +50,7 @@ Further Reading : [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_L
         run = "dart code/dart/gameoflife.dart"
         ````
 3. Click on Run on the top of the page.
-4. After you are done, fill out [this form](https://docs.google.com/forms/d/1JnPw89cLyYF-gzdCP5O3LcwY4DCQCJKXFRANpQM2pkA/edit)
+4. After you are done, fill out [this survey form](https://docs.google.com/forms/d/1JnPw89cLyYF-gzdCP5O3LcwY4DCQCJKXFRANpQM2pkA/edit) for analysis.
 
 ## Team Members : 
 
