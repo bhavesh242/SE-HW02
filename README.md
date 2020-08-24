@@ -31,7 +31,7 @@ Further Reading : [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_L
 2. Scala
 3. Dart
 
-## Instructions to run the code:
+## Instructions to run the code :
 1. Click on [![Run on Repl.it](https://repl.it/badge/github/bhavesh242/SE-HW02)](https://repl.it/github/bhavesh242/SE-HW02) badge 
 2. Edit .replit file for each language as follows
     * Go
