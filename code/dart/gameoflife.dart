@@ -73,7 +73,7 @@ dynamic print_board(board,rows,cols)
 dynamic life(rows, cols, some, generations) 
 { 
   var now = List(rows*cols); 
-  for(var c=0;c<rows*cols; c++)
+  for(var c=0;c<rows*cols-1; c++)
   { 
     var rand=Random().nextDouble();
     if(rand>some)
@@ -132,7 +132,7 @@ dynamic live(a, rows, cols)
       {
         if (alive == 2 || alive == 3)
         {
-          ans[i][j] = 1;
+          ans[i][j] = 1
         }
         else
         {
@@ -145,7 +145,7 @@ dynamic live(a, rows, cols)
   print_board(ans, rows, cols);
   var next = List(rows*cols); 
   c = 0;
-  for(var i=0;i<rows;i++)
+  for(i=0;i<rows;i++)
   {
     for(var j=0;j<cols;j++)
     {
