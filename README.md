@@ -1,5 +1,6 @@
 ![Build Status](https://travis-ci.com/bhavesh242/SE-HW02.svg?branch=master)
 ![MIT license](https://img.shields.io/badge/License-MIT-green.svg)
+[![DOI](https://zenodo.org/badge/289317236.svg)](https://zenodo.org/badge/latestdoi/289317236)
 
 # Conway's Game Of Life
 
