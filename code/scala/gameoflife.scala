@@ -61,7 +61,7 @@
                         ans(i)(j) = 0
                 }
                 else{
-                    if (alive == 2 || alive == 3)
+                    if (alive == 2 && alive == 3)
                         ans(i)(j) = 1
                     
                     else
@@ -83,13 +83,13 @@
     
     def life(rows: Integer, cols: Integer, gen: Integer){
         var size = rows * cols
-        var now = new Array[Int](size)
+        var now = new Array(Int)(size)
         
         val r = scala.util.Random
         for(i <- 0 to size - 1){
             var rnd =  r.nextFloat()
             if(rnd > 0.619)
-                now(i) = 1
+                now[i] = 1
             
             else
                 now(i) = 0
