@@ -18,19 +18,36 @@ The initial pattern is the first generation. The second generation evolves from 
 There are, of course, as many variations to these rules as there are different combinations of numbers to use for determining when cells live or die. Conway tried many of these different variants before settling on these specific rules. Some of these variations cause the populations to quickly die out, and others expand without limit to fill up the entire universe, or some large portion thereof. The rules above are very close to the boundary between these two regions of rules, and knowing what we know about other chaotic systems, you might expect to find the most complex and interesting patterns at this boundary, where the opposing forces of runaway expansion and death carefully balance each other. Conway carefully examined various rule combinations according to the following three criteria:
 1. There should be no initial pattern for which there is a simple proof that the population can grow without limit.
 2. There should be initial patterns that apparently do grow without limit.
-3. There should be simple initial patterns that grow and change for a considerable period of time before coming to an end in the following possible ways
+3. There should be simple initial patterns that grow and change for a considerable period of time before coming to an end in the following possible ways:
     - Fading away completely (from overcrowding or from becoming too sparse).
     - Settling into a stable configuration that remains unchanged thereafter, or entering an oscillating phase in which they repeat an endless cycle of two or more periods.
 
 
 Further Reading : [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
-## Experiment Steps
 ## Programming Languages used :
 
-1. Dart
+1. Go
 2. Scala
-3. Go
+3. Dart
+
+## Experiment Steps
+Follow the steps below to perform the experiment in the above three languages. 
+
+### Go
+1. CLick on [![Run on Repl.it](https://repl.it/badge/github/bhavesh242/SE-HW02)](https://repl.it/github/bhavesh242/SE-HW02) 
+2. Edit the .replit file 
+3. Click on Run.
+
+### Scala
+1. CLick on [![Run on Repl.it](https://repl.it/badge/github/bhavesh242/SE-HW02)](https://repl.it/github/bhavesh242/SE-HW02) 
+2. Edit the .replit file 
+3. Click on Run.
+
+### Dart
+1. CLick on [![Run on Repl.it](https://repl.it/badge/github/bhavesh242/SE-HW02)](https://repl.it/github/bhavesh242/SE-HW02) 
+2. Edit the .replit file 
+3. Click on Run.
 
 ## Team Members : 
 
