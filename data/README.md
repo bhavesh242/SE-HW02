@@ -1,0 +1,1 @@
+This project does not use any data from any sources to operate on.
