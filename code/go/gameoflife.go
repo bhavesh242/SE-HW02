@@ -84,7 +84,7 @@ func live(a []int, rows int, cols int) []int{
     c+=1
   }
 
-  ans=make([][]int,cols)
+  ans:=make([][]int,cols)
   for i:=range ans{
       ans[i]=make([]int,rows)
   }
