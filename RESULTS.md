@@ -4,6 +4,10 @@
 ##  Methods
 
 ## Materials
+Repl.it
+Zoom 
+Google Forms
+Digital Timers
 
 ## Observations
 
