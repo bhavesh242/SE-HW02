@@ -21,7 +21,7 @@
 * Dart language was the average of the bunch in terms of debugging time, readability and interest showed. However, interactions with subjects showed that it was the least known language of the three, some of them claiming to hear about the language for the first time during the experiment.
 * Although scala was the fastest debugging time by a small margin, it was least readable language for most subjects. Also it was the least popular language to be pursued further. Some users also commented that the slow execution of scala was mildly infuriating to them.
 
-According to our experiments, this is the ranking of the 3 languages, from best to worst : 
+According to our experiments, following is the ranking of the 3 languages, from best to worst : 
 1) Go
 2) Dart
 3) Scala
