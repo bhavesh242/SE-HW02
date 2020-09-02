@@ -15,6 +15,14 @@
 * Digital Timers
 ## Observations
 
+### Mean Debugging Time
+
+### Proficiency of subjects in all three languages
+
+### Readability of Each language
+
+### Interest in exploring the language further
+
 
 ## Conclusions
 * Despite taking the most Debugging time for a majority of subjects, users were more interested in exploring Go Language as compared to Dart and Scala. Most subjects also reported Go as the most readable language out of the three. The highest debugging time for Go is accounted for by the fact that one bug in go was more difficult than any other bugs introduced in all the three languages. 
