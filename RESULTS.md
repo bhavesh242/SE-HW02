@@ -7,7 +7,7 @@
 * Google Forms were used for getting feedback from the users.
 * Prevented users for accessing Rosetta's code
 * The evaluation was based on whether the user was able to find the bug, fix the bug and time taken to fix it.
-* Instructions on how to run code for each langauge in repl.it was provided in the README.md
+* Instructions on how to run code for each language in repl.it was provided in the README.md
 ## Materials
 * Repl.it
 * Zoom
