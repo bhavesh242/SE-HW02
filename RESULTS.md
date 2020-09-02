@@ -27,3 +27,8 @@ According to our experiments, this is the ranking of the 3 languages, from best 
 3) Scala
 
 ## Threats to Validity
+
+ - While conducting the experiments, we tried our best to monitor a subject's progress. However, because of the virtual nature of the experiment, it could be that the subjects were collaborating with each other while debugging the code, thus making it easier for them to find and correct faults. Also there were no ways to prevent two subjects from sharing information outside of the experiment.
+ -  Our post experiment survey recorded parameters like readability, proficiency etc, which were subjective rather than objective, thus making it difficult to quantify and may cause our results to be misleading.
+ - The subjects may have programmed "The Game of Life" in one or more of our selected languages as a part of their group's experiments. This may have caused them to complete the experiment faster than those who hadn't used any of the three previously, given that the logic was derived from the same code base. This discrepancy may have introduced some bias in the experiment results.
+ -   Since, the experiment consisted of only 10 test subjects, mostly coming from a similar background (CS grads), the results may have some loopholes. On the contrary, if the user set consisted of (say) 3 college grads, 3 professors and 4 industry level specialists, our results would have been different and much more plausible given the diversity of our lab rats. 
